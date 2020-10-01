@@ -10,16 +10,16 @@ At WOKEN CREATION, we are a collaboration academy that provides tools and electr
 </div>
 
 # Our Social Media #
-<a href="https://twitter.com/creationwoken">
+<a href="https://twitter.com/">
   <img align="left" alt="Pawan's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/company/woken-creation">
+<a href="https://www.linkedin.com/">
   <img align="left" alt="Woken's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://instagram.com/woken_creation/">
+<a href="https://instagram.com/">
   <img align="left" alt="Woken's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/WOKEN-Creation-482860135545481/">
+<a href="https://www.facebook.com/">
   <img align="left" alt="Woken's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/">
